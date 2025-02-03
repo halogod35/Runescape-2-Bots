@@ -1,0 +1,8 @@
+Bones	1	4,5	f
+Wolf Bones	1	4,5	m
+Burnt Bones	1	4,5	f
+Monky bones	1	5	m
+Bat Bones	1	5,25	f
+Big Bones	1	15	f
+Babydragon Bones	1	30	m
+Dragon Bones	1	72	m

@@ -1,0 +1,17 @@
+Shrimp	1	10	f
+Sardine	5	20	f
+Herring	10	30	f
+Anchovy	15	40	f
+Mackerel	16	20	m
+Trout	20	50	f
+Cod	23	45	m
+Pike	25	60	m
+Salmon	30	70	f
+Tuna	35	80	f
+Lobster	40	90	f
+Bass	46	100 	m
+Swordfish	50	100 	f
+Lava Eel	53	60	m
+Shark	76	110	m
+Sea Turtle	78	105	m
+Manta Ray	80	115	m

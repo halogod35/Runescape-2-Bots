@@ -1,0 +1,41 @@
+-Picking Pockets
+Man	1	8	m
+Farmer	10	14,5	m
+Warrior	25	26	m
+Rogue	32	35,5	m
+Guard	40	46,5	m
+Knight	55	84,5	m
+Yanille Watchman	65	137,5	m
+Paladin	70	151,75	m
+Gnome	75	198,5	m
+Hero	80	275	m
+
+-Stealing From Stalls
+Tea Stall	5	16	m
+Bakers Stall	5	16	m
+Silk Stall	20	24	m
+Fur Stall	35	36	m
+Silver Stall	50	54	m
+Spice Stall	65	81	m
+Gem Stall	75	16	m
+
+-Thieving From Chests
+Coins (10)	10	7	m
+Nature Runes	28	25	m
+Coins (50)	43	125	m
+Steel Arrowheads	47	150	m
+Blood Runes	59	250	m
+Paladin Chest	72	500	m
+
+-Lockpicking
+1, Story Room East of Spice Stall	1	3,75	m
+Handelmort Mansion	21	15	m
+2, Story House With Red Carpet In Northwest Ardougne	16	15	m
+2, Story House East of Baker's Stall	14	15	m
+1, Story Room South of Yanille Bank	16	15	m
+Ardougne Sewers; Door Leads To Mine and Zombies (level 32)	32	25	m
+Chaos Druid (level 19) Tower and Blood Rune Chest	46	37,5	m
+Jail Doors In Iban's Cave	50	4	m
+Ladder In 2nd Floor of Paladin (level 71) Tower	61	50	m
+Back Entrance to Agility Dungeon, Downstairs In Southern Yanille	82	50	m
+Pirate Door	39	35	m

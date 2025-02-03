@@ -1,0 +1,39 @@
+# file format: tab seperates
+# name	level to use	xp	members skill
+-Bows
+Shortbow	5	10	m
+Longbow	10	20	m
+Oak Shortbow	20	33	m
+Oak Longbow	25	50	m
+Willow Shortbow	35	66,6	m
+Willow Longbow	40	83	m
+Maple Shortbow	50	100	m
+Maple Longbow	55	117	m
+Yew Shortbow	65	133	m
+Yew Longbow	70	155	m
+Magic Shortbow	80	166,6	m
+Magic Longbow	85	183	m
+Ogre Bow	-1	-1	m
+-Arrows
+Arrow Shafts	1	5	f
+Headless Arrows	1	15	f
+Bronze Arrows	1	39,5	f
+Iron Arrows	15	57,5	m
+Steel Arrows	30	95	m
+Mithril Arrows	45	132,5	m
+Adamant Arrows	60 	165	m
+Rune Arrows	75 	225	m
+Ogre Arrow Shafts	5	-1	m
+Headless Ogre Arrows	5	5	m
+Ogre Arrows	5	-1	m
+-Darts
+Bronze Dart	1	18	m
+Iron Dart	22	32	m
+Steel Dart 	37 	75	m
+Mithril Dart 	52 	112	m
+Adamant Dart 	67 	150	m
+Rune Dart	81	188	m
+-Bolts
+Opal Tipped Bolts	17	6	m
+Pearl Tipped Bolts	33	12,5	m
+Barb Tipped Bolts	51	95	m

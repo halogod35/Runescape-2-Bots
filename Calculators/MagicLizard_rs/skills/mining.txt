@@ -1,0 +1,19 @@
+Clay	1	5	f
+Copper	1	17,5	f
+Tin	1 	17,5 	f
+Blurite	10 	17,5 	f
+Iron	15 	35 	f
+Silver	20 	40 	f
+Coal	30 	50 	f
+Gold	40 	65 	f
+Mithril	55 	80 	f
+Adamant	70 	95 	f
+Runite	85 	120 	f
+-Gems
+Opal	1	65	m
+Jade	1	65	m
+Red Topaz	1	65	m
+Sapphire	1	65	f
+Emerald	1	65	f
+Ruby	1	65	f
+Diamond	1	65	f

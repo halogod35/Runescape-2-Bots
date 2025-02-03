@@ -1,0 +1,20 @@
+RS toolbar for FireFox v1.4
+
+FireFox is a browser that has alot of features that Internet Explorer doesn't, 
+it can be downloaded at www.mozilla.com
+
+BEFORE INSTALLING, PLEASE MAKE SURE THAT YOU HAVE REMOVED
+ANY PREVIOUS VERSION OF RS TOOLBAR(1.2, 1.1...ETC)
+
+INSTALLATION
+----------------------------------------------------------------------------
+
+1. Open up your FireFox
+2. Drag "rstoolbar.xpi" into FireFox Window
+3. Follow the steps to install
+4. Restart FireFox
+5. Enjoy =D
+
+----------------------------------------------------------------------------
+
+Provided by www.rs2cheating.com

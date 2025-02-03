@@ -1,0 +1,85 @@
+-Glass
+Melt glass	1	20	m
+Beer Glass	3	17,5	m
+Vial	33	35	m
+Orb	46	52,5	m
+
+-Attaching Orbs to Battlestaffs
+Water	54	100	m
+Earth	58	112,5	m
+Fire	63	125	m
+Air	66	137,5	m
+
+-Pottery
+Pot, spin	1	6,25	f
+Pot, fire	1	6,25	f
+Pie Dish, spin	7	15	f
+Pie Dish, fire	7	10	f
+Bowl, spin	8	18	f
+Bowl, fire	8	15	f
+
+-Leather Armor
+Gloves	1	13,8	f
+Boots	7	16,3	f
+Cowl	9	18,5	m
+Vambraces	11	22	m
+Leather Body	14	25	f
+Chaps	18	27	m
+Coif	38	37	m
+Hard Leather Body	28 	35	f
+Studded Leather Body, make	41 	40	m
+Studded Leather Body, stud	41 	25	m
+Studded Leather Chaps, make	44 	42	m
+Studded Leather Chaps, stud	44 	27	m
+
+-Dragonhide Leather
+Green Leather Vambraces	57	62	m
+Green Leather Chaps	60	124	m
+Green Leather Body	63	186	m
+Blue Leather Vambraces	66	70	m
+Blue Leather Chaps	68	140	m
+Blue Leather Body	71	210	m
+Red Leather Vambraces	73	78	m
+Red Leather Chaps	75	156	m
+Red Leather Body	77	234	m
+Black Leather Vambraces	79	86	m
+Black Leather Chaps	82	172	m
+Black Leather Body	84	258	m
+
+-Cutting Gems
+Opal	1	15	m
+Jade	1	20	m
+Red Topaz	1	25	m
+Sapphire	20	50	f
+Emerald	27	67	f
+Ruby	34	85	f
+Diamond	43	107,5	f
+Dragonstone	55	137,5	f
+
+-Jewelry
+Gold, ring	5	15	f
+Gold, neckase	6	20	f
+Gold, amulet	8	30	f
+Sapphire, ring	8	40	f
+Sapphire, neckase	29	55	f
+Sapphire, amulet	24	65	f
+Emerald, ring	18	55	f
+Emerald, neckase	31	60	f
+Emerald, amulet	30	70	f
+Ruby, ring	34	70	f
+Ruby, neckase	40 	75	f
+Ruby, amulet	50	85	f
+Diamond, ring	43	85	f
+Diamond, neckase	56	90	f
+Diamond, amulet	70	100	f
+Dragonstone, ring	55	100	m
+Dragonstone, neckase	72	105	m
+Dragonstone, amulet	80	150	m
+Holy Symbol of Saradomin	16	50	f
+Unholy	16	50	m
+
+Flax	10	15	m
+Woll	1	2,5	f
+Dye	1	2	f
+Silver Sickle	18	50	m
+Stringing an amulet/symbol	1	4	f

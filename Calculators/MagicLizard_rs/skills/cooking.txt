@@ -1,0 +1,36 @@
+# file format: tab seperates, -1 = N/A
+# name	level to use	xp	members skill
+Cooked Meat	1	30	f
+Shrimp	1	30	f
+Bread	1	40	f
+Sardine	1 	40 	f
+Herring	5 	50 	f
+Mackerel	10 	60	m
+Redberry Pie	10 	60	f
+Anchovy	15 	30	f
+Trout	15 	70	f
+Cod	18 	70	m
+Pike	20 	80	f
+Meat Pie	20 	80	f
+Salmon	25 	90	f
+Stew	25 	90	f
+Chompy Bird	30	100	m
+Tuna	30 	100	f
+Apple Pie	30 	100	f
+Wine	35 	110	f
+Pizza	35 	110	f
+Lobster	40 	120	f
+Cake	40 	120	f
+Bass	43 	130	m
+Swordfish	45 	140	f
+Meat Pizza	45 	140	f
+Chocolate Cake	50 	120	f
+Oomlie Wrap	50 	40	m
+Lava Eel	53 	140	f
+Anchovie Pizza	55 	140	f
+Ugthanki Kebab	53 	120	m
+Curry	60 	125	f
+Pineapple Pizza	65 	110	m
+Shark	80 	210	m
+Sea Turtle	82 	212	m
+Manta Ray	91 	216	m

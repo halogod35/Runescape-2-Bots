@@ -1,0 +1,149 @@
+Smelting Silver Bar	20	13,5	f
+Smelting Gold Bar	40	22,5	f
+
+-Bronze
+Smelting Bar	1	6,25	f
+Dagger	1	12,5	f
+Axe	1	12,5	f
+Mace	2	12,5	f
+Medium Helmet	3	12,5	f
+Sword	4	12,5	f
+Dart Tips (10)	4	12,5	m
+Wire	4	12,5	m
+Scimitar	5	25	f
+Arrow Heads (15)	5	12,5	f
+Long Sword	6	25	f
+Full Helm	7	25	f
+Throwing Knives (5)	7	12,5	f
+Square Shield	8	25	f
+Warhammer	9	37,5	m
+Battle Axe	10	37,5	f
+Chain Body	11	37,5	f
+Kite Shield	12	37,5	f
+Claws	13	25	m
+2 Hand Sword	14	37,5	f
+Plate Legs	16	37,5	f
+Plate Skirt	16	37,5	f
+Plate Body	18	62,5	f
+
+-Iron
+Smelting Bar	15	12,5	f
+Dagger	15	25	f
+Axe	16	25	f
+Mace	17	25	f
+Medium Helmet	18	25	f
+Sword	19	25	f
+Dart Tips (10)	19	25	m
+Scimitar	20	50	f
+Arrow Heads (15)	20	25	m
+Long Sword	21	50	f
+Full Helm	22	50	f
+Throwing Knives (5)	22	25	m
+Square Shield	23	50	f
+Warhammer	24	75	m
+Battle Axe	25	75	f
+Chain Body	26	75	f
+Kite Shield	27	75	f
+Claws	28	50	m
+2 Hand Sword	29	75	f
+Plate Legs	31	75	f
+Plate Skirt	31	75	f
+Plate Body	33	125	f
+
+-Steel
+Smelting Bar	30	17,5	f
+Dagger	30	37,5	f
+Axe	31	37,5	f
+Mace	32	37,5	f
+Medium Helmet	33	37,5	f
+Sword	34	37,5	f
+Nails (2)	34	37,5	f
+Dart Tips (10)	34	37,5	m
+Scimitar	35	75	f
+Arrow Heads (15)	35	37,5	m
+Long Sword	36	75	f
+Studs	36	37,5	m
+Full Helm	37	75	f
+Throwing Knives (5)	37	37,5	m
+Square Shield	38	75	f
+Warhammer	39	112,5	m
+Battle Axe	40	112,5	f
+Chain Body	41	112,5	f
+Kite Shield	42	112,5	f
+Claws	43	75	m
+2 Hand Sword	44	112,5	f
+Plate Legs	46	112,5	f
+Plate Skirt	46	112,5	f
+Plate Body	48	187,5	f
+
+-Mithril
+Smelting Bar	50	30	f
+Dagger	50	50	f
+Axe	51	50	f
+Mace	52	50	f
+Medium Helmet	53	50	f
+Sword	54	50	f
+Dart Tips (10)	54	50	m
+Scimitar	55	100	f
+Arrow Heads (15)	55	50	m
+Long Sword	56	100	f
+Full Helm	57	100	f
+Throwing Knives (5)	57	50	m
+Square Shield	58	100	f
+Warhammer	59	150	m
+Battle Axe	60	150	f
+Chain Body	61	150	f
+Kite Shield	62	150	f
+Claws	63	100	m
+2 Hand Sword	64	150	f
+Plate Legs	66	150	f
+Plate Skirt	66	150	f
+Plate Body	68	250	f
+
+-Adamantite
+Smelting Bar	70	37,5	f
+Dagger	70	62,5	f
+Axe	71	62,5	f
+Mace	72	62,5	f
+Medium Helmet	73	62,5	f
+Sword	74	62,5	f
+Dart Tips (10)	74	62,5	m
+Scimitar	75	62,5	f
+Arrow Heads (15)	75	62,5	m
+Long Sword	76	125	f
+Full Helm	77	125	f
+Throwing Knives (5)	77	62,5	m
+Square Shield	78	125	f
+Warhammer	79	187,5	m
+Battle Axe	80	187,5	f
+Chain Body	81	187,5	f
+Kite Shield	82	187,5	f
+Claws	83	125	m
+2 Hand Sword	84	187,5	f
+Plate Legs	86	187,5	f
+Plate Skirt	86	187,5	f
+Plate Body	88	312,5	f
+
+-Rune
+Smelting Bar	85	50	f
+Dagger	85	75	f
+Axe	86	75	f
+Mace	87	75	f
+Medium Helmet	88	75	f
+Sword	89	75	f
+Dart Tips (10)	89	75	m
+Scimitar	90	150	f
+Arrow Heads (15)	90	75	m
+Long Sword	91	150	f
+Full Helm	92	150	f
+Throwing Knives (5)	92	75	m
+Square Shield	93	150	f
+Warhammer	94	225	m
+Battle Axe	95	225	f
+Chain Body	96	225	f
+Kite Shield	97	225	f
+Claws	98	150	m
+2 Hand Sword	99	225	f
+Plate Legs	99	225	f
+Plate Skirt	99	225	f
+Plate Body	99	375	f

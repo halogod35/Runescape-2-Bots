@@ -1,0 +1,6 @@
+Regular	1	25	f
+Oak	15	37,5	f
+Willow	30	67,5	f
+Maple	45	100	m
+Yew	60	175	f
+Magic	75	250	m

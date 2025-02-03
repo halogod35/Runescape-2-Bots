@@ -1,0 +1,36 @@
+-Identification
+Guam Leaf	3	2,5	m
+Marrentill	5	3,75	m
+Tarromin	11	5	m
+Harralander	20	6	m
+Ranaar Weed	25	7,5	m
+Irit Leaf	40	9	m
+Avantoe	48	10	m
+Kwuarm	54	11,25	m
+Cadantine	65	12,75	m
+Lantadyme	67	13	m
+Dwarf Weed	70	13,75	m
+Torstol	76	15	m
+
+-Making Potions
+Attack	3	25	m
+Anti Poison	5	38	m
+Strength	12	50	m
+Restore	22	62,5	m
+Energy	26	67,5	m
+Defense	30	75	m
+Agility	34	80	m
+Restore Prayer	38	87,5	m
+Super Attack	45	100	m
+Super Anti Poison	48	106	m
+Fishing	50	113	m
+Super Energy	52	118	m
+Super Strength	55	125	m
+Weapon Poison	60	137,5	m
+Super Restore	63	142	m
+Super Defense	66	150	m
+Anti-FireBreath potion	69	158	m
+Ranging	72	162,5	m
+Magic	76	172,5	m
+Potion of Zamorak	78	175	m
+

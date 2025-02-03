@@ -1,0 +1,54 @@
+-Attack spells
+Wind Strike	1	-1	f
+Confuse	3	13	f
+Water Strike	5	-1	f
+Earth Strike	9	-1	f
+Weaken	11	21	f
+Fire Strike	13	-1	f
+Wind Bolt	17	-1	f
+Curse	19	29	f
+Bind	20	30	f
+Water Bolt	23	-1	f
+Earth Bolt	29	-1	f
+Fire Bolt	35	-1	f
+Crumble Undead	39	-1	f
+Wind Blast	41	-1	f
+Water Blast	47	-1	f
+Iban Blast	50	-1	m
+Snare	50	-1	f
+Earth Blast	53	-1	f
+Fire Blast	59	-1	f
+Saradomin Strike	60	-1	m
+Claws of Guthix	60	-1	m
+Flames of Zamorak	60	-1	m
+Wind Wave	62	-1	m
+Water Wave	65	-1	m
+Vulnerability	66	-1	m
+Earth Wave	70	-1	m
+Enfeeble	74	-1	m
+Fire Wave	75	-1	m
+Entangle	79	-1	m
+Stun	80	-1	m
+Charge	80	-1	m
+
+-Other spells
+Enchant Lvl-1 Jewellery	7	-1	f
+Bones to Bananas	15	25	f
+Low Level Alchemy	21	31	f
+Varrock Teleport	25	35	f
+Enchant Lvl-2 Jewellery	27	-1	f
+Lumbridge Teleport	31	41	f
+Telekinetic Grab	33	43	f
+Falador Teleport	37	48	f
+Superheat Item	43	43	f
+Camelot Teleport	45	-1	m
+Enchant Lvl-3 Jewellery	49	-1	f
+Ardougne Teleport	51	61	m
+High Level Alchemy	55	65	f
+Charge Water Orb	56	-1	m
+Enchant Lvl4 Jewellery	57	-1	f
+Watchtower Teleport	58	68	m
+Charge Earth Orb	60	-1	m
+Charge Fire Orb	63	-1	m
+Charge Air Orb	66	-1	m
+Enchant Lvl-5 Jewellery	68	-1	m
